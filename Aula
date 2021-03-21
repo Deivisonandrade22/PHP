@@ -10,6 +10,9 @@
  
 </body>
 <?php
+echo"ola mundo";
+$carros=(gol, corsa, celta, hb20);
+echo($carros);
 
 ?>
 </html>
